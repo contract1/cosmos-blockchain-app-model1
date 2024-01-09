@@ -1,4 +1,4 @@
-# create-cosmos-app
+# cosmos-blockchain-app-model1
 
 <p align="center" width="100%">
     <img height="148" src="https://user-images.githubusercontent.com/545047/186589196-e75c9540-86a7-4a71-8096-207be9a4216f.svg" />
@@ -20,13 +20,13 @@ https://user-images.githubusercontent.com/545047/192061992-f0e1106d-f4b2-4879-ab
 
 ```
 # install
-npm install -g create-cosmos-app
+npm install -g cosmos-blockchain-app-model1
 
 # run one command
-create-cosmos-app
+create-cosmos-blockchain-app-model1
 
-> name: my-app
-cd my-app
+> name: cosmos-app
+cd cosmos-app
 yarn && yarn dev
 
 # now your app is running on localhost:3000!
@@ -57,7 +57,7 @@ To create a new app, you may choose one of the following methods:
 ### global install
 
 ```sh
-npm install -g create-cosmos-app
+npm install -g cosmos-blockchain-app-model1
 ```
 
 Then run the command:
