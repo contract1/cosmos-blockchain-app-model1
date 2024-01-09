@@ -1,0 +1,17 @@
+{
+  "editor.formatOnSave": true,
+  "[javascriptreact]": {
+    "editor.formatOnSave": false
+  },
+  "[javascript]": {
+    "editor.formatOnSave": false
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "eslint.validate": ["javascript", "javascriptreact"],
+  "files.exclude": {
+    ".yarn/*": true
+  },
+  "typescript.tsdk": "node_modules/typescript/lib"
+}
